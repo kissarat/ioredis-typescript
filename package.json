@@ -1,0 +1,30 @@
+{
+  "name": "ioredis-typescript",
+  "version": "0.0.1",
+  "description": "TypeScript types definition for ioredis",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "redis"
+  ],
+  "author": "Taras Labiak <kissarat@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.17.3"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kissarat/ioredis-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kissarat/ioredis-typescript/issues"
+  },
+  "homepage": "https://github.com/kissarat/ioredis-typescript#readme"
+}
